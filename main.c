@@ -13,5 +13,11 @@ int input() {
   return 0;
   fgets(test2, 12, stdin);
 }
+int calc(){
 
-int main() { return input(); }
+
+
+    return 0;
+}
+
+int main() { return /*input(),*/ calc(); }

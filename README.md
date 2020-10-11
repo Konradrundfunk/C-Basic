@@ -59,7 +59,7 @@ than the value is assingt to test but ***only the first word*** because of strin
 fixes the problem of the one word is ment for a line 
 
 ```
-fget(name, [how many chars])
+fget(name, [how many chars], stdin[standart input ])
 ```
 
 
