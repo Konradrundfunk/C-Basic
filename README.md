@@ -2,7 +2,7 @@
 
 ## Comments 
 ```
-/* this is a oneline comment  */
+/* this is a one line comment  */
 
 /* multiline comment 
 comment
