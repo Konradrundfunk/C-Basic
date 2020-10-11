@@ -44,7 +44,7 @@ s = string
 lf = double 
 
 ## Inputs 
-
+### scanf
 first assing the valuble 
 ```
 char = test 
@@ -53,6 +53,12 @@ scanf("%[input type], &test")
 _note the imporance of the & in front of test_
 
 than the value is assingt to test 
+
+### fgets 
+
+```
+fget(name, [how many chars])
+```
 
 
 ## important links 
