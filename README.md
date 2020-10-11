@@ -52,9 +52,11 @@ scanf("%[input type], &test")
 ```
 _note the imporance of the & in front of test_
 
-than the value is assingt to test 
+than the value is assingt to test but ***only the first word*** because of string
 
 ### fgets 
+
+fixes the problem of the one word is ment for a line 
 
 ```
 fget(name, [how many chars])
