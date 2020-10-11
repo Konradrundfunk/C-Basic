@@ -13,11 +13,13 @@ comment */
 ## Variables 
 
 #### Numeric variables
+
 1. ***int = 145***
 2. ***double = 134.412***
 3. ***float = 2332.3***
 
 ### Alphabetic variables
+
 4. ***char = "A"***
 5. ***char[] = "ABc"***
 
@@ -46,6 +48,16 @@ lf = double
 first assing the valuble 
 ```
 char = test 
-scanf("%[input type], test")
+scanf("%[input type], &test")
 ```
+_note the imporance of the & in front of test_
+
 than the value is assingt to test 
+
+
+## important links 
+1. https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B
+
+2. 
+
+3. 

@@ -6,6 +6,7 @@ int main()
     int test;
     scanf("%d", &test);
     printf("you are %d ", test);
+
     return 0;
 
 }
