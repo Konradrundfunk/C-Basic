@@ -23,8 +23,11 @@ int simpcalc(){
   printf("Answer = %lf", num1 + num2);
   return 0;
 }
-int game(){
-
+int rand(){
+  char test[20]; /*20 characters can be added */
+  printf("enter a random thing");
+  scanf("%s", test);
+  printf("you have entered %s", test);
   return 0;
 }
-int main() { return /*input(),simpcalc()*/ game(); }
+int main() { return /*input(),simpcalc()*/ rand(); }
