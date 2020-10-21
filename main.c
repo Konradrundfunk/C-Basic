@@ -13,11 +13,18 @@ int input() {
   return 0;
   fgets(test2, 12, stdin);
 }
-int calc(){
-
-
-
-    return 0;
+int simpcalc(){
+  double num2;
+  double num1;
+  printf("enter first num");
+  scanf("%lf", &num1);
+  printf("enter second num");
+  scanf("%lf", &num2);
+  printf("Answer = %lf", num1 + num2);
+  return 0;
 }
+int game(){
 
-int main() { return /*input(),*/ calc(); }
+  return 0;
+}
+int main() { return /*input(),simpcalc()*/ game(); }
